@@ -1,6 +1,6 @@
 {
   "name": "@karsh18/holidates",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Retrieve all public holidays of one country",
   "main": "index.js",
   "bin": "./index.js",
