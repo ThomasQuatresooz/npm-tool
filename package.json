@@ -1,0 +1,30 @@
+{
+  "name": "@karsh18/holidates",
+  "version": "0.9.0",
+  "description": "Retrieve all public holidays of one country",
+  "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasQuatresooz/npm-tool.git"
+  },
+  "author": "Thomas Q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasQuatresooz/npm-tool/issues"
+  },
+  "homepage": "https://github.com/ThomasQuatresooz/npm-tool#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.4.0",
+    "ora": "^4.0.4"
+  },
+  "type": "module"
+}
